@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/sidahmed-latreuch">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[email protected]">
+  <a href="mailto:sidahmed@latreuch.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/sidahmedlatreuch">
@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-I’m **Sid Ahmed Latreuch**, Embedded Electronics Engineer with 3+ years building real hardware-software products. I design PCBs, write firmware, simulate circuits, and deploy IoT solutions. Based in **Paris, France**. Portfolio: https://sidahmed.latreuch.com/ :contentReference[oaicite:1]{index=1}
+I’m **Sid Ahmed Latreuch**, Embedded Electronics Engineer with 3+ years building real hardware-software products. I design PCBs, write firmware, simulate circuits, and deploy IoT solutions. Based in **Paris, France**. Portfolio: https://sidahmed.latreuch.com/
 
 ---
 
@@ -72,27 +72,26 @@ I’m **Sid Ahmed Latreuch**, Embedded Electronics Engineer with 3+ years buildi
 
 ### 🌍 **My Portfolio Site**
 🔗 https://sidahmed.latreuch.com/  
-Developed a personal portfolio to showcase my work, technical skills, embedded systems projects, and professional profile in IoT and electronics. :contentReference[oaicite:2]{index=2}
+Developed a personal portfolio to showcase my work, technical skills, embedded systems projects, and professional profile in IoT and electronics. 
 
 ### 🏙️ **NeoCity – Smart IoT City Platform**
 **Role:** R&D Engineer  
-Built scalable IoT controllers and dashboards for smart lighting. Designed PCBs and integrated Zigbee communication for robust field operation. :contentReference[oaicite:3]{index=3}
+Built scalable IoT controllers and dashboards for smart lighting. Designed PCBs and integrated Zigbee communication for robust field operation.
 
 ### 🛠️ **RISK-IoT – Industrial Risk Prevention System**
 **Role:** Embedded Systems Developer  
-Developed modular IoT architecture and prototypes with ESP32 nodes and gateways. Focused on reliability, security, and industrial readiness. :contentReference[oaicite:4]{index=4}
+Developed modular IoT architecture and prototypes with ESP32 nodes and gateways. Focused on reliability, security, and industrial readiness.
 
 ### 📊 **Analog Interface Board – Precision Signal Conditioning**
 **Role:** Hardware Designer  
-Designed analog front end for high-fidelity signal measurement with analog + FPGA integration. :contentReference[oaicite:5]{index=5}
+Designed analog front end for high-fidelity signal measurement with analog + FPGA integration. 
 
 ---
 
 ## 📫 Contact
 
 📍 Paris, France  
-📧 [email protected]  
-📱 +33 7 53 09 38 95
+📧 sidahmed@latreuch.com
 
 > Open to collaboration, freelance, and full-time opportunities.
 
