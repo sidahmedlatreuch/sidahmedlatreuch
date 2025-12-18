@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=SID%20AHMED%20LATREUCH&fontSize=42&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
